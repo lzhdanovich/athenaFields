@@ -1,1 +1,3 @@
-"Guid","Name","address__City__s","address__CountryCode__s","address__GeocodeAccuracy__s","address__Latitude__s","address__Longitude__s","address__PostalCode__s","address__StateCode__s","address__Street__s","checkbox__c","currency__c","date__c","email__c","geolocation__Latitude__s","geolocation__Longitude__s","number__c","percent__c","phone__c","picklistMultiselect__c","picklist__c","textAreaLong__c","textAreaRich__c","textArea__c","textEncrypted__c","text__c","time__c","url__c"
+"Guid","Name"
+4008bc6b-610e-4982-afc2-987156c4fde4,prefixempty value
+c4a9a44e-b297-4b14-876f-fbcd07453d8c,prefixempty value all nulls
